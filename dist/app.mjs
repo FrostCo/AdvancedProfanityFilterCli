@@ -12,3 +12,4 @@ filter.prepare();
 
 filter.cleanFile('./hp1.txt', './clean.txt');
 console.log('Counter: ', filter.counter);
+console.log('Summary: ', filter.summary);

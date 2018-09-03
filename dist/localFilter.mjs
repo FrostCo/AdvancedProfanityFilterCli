@@ -1,5 +1,5 @@
 import fs from 'fs';
-import Filter from '../lib/filter';
+import {Filter} from './lib/filter';
 
 export default class LocalFilter extends Filter {
   constructor(config) {

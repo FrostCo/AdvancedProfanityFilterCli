@@ -1,4 +1,4 @@
-import Config from '../lib/config';
+import Config from './lib/config';
 import fs from 'fs';
 
 export default class LocalConfig extends Config {

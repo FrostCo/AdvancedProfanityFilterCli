@@ -1,0 +1,28 @@
+{
+  "name": "advancedprofanityfilterapp",
+  "version": "0.1.0",
+  "description": "An app to remove profanity from various filetypes.",
+  "scripts": {
+    "getLib": "node ./getLib.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardfrost/AdvancedProfanityFilterApp.git"
+  },
+  "keywords": [
+    "Profanity",
+    "Filter"
+  ],
+  "author": "Richard Frost",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/richardfrost/AdvancedProfanityFilterApp/issues"
+  },
+  "homepage": "https://github.com/richardfrost/AdvancedProfanityFilterApp#readme",
+  "devDependencies": {},
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}
